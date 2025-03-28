@@ -35,13 +35,13 @@
 ## Project Structure
   tic-tac-toe/
 ├── index.html
-├── styles.css
+├── style.css
 ├── script.js
 └── README.md
 
 
 * `index.html`: The main HTML file containing the game's structure.
-* `styles.css`: The CSS file for styling the game.
+* `style.css`: The CSS file for styling the game.
 * `script.js`: The JavaScript file containing the game's logic.
 * `README.md`: The file you're currently reading.
 
@@ -59,7 +59,7 @@ The `script.js` file handles the following:
 
 ## Customization
 
-* **Styling:** Modify the `styles.css` file to change the appearance of the game board, cells, and messages.
+* **Styling:** Modify the `style.css` file to change the appearance of the game board, cells, and messages.
 * **Game Logic:** You can enhance the game logic in `script.js` to add features like:
     * AI opponent.
     * Score tracking.
